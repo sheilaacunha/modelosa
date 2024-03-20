@@ -1,0 +1,29 @@
+.linha1 {
+    background-image: url(../assets/img/bg.png);
+}
+
+.image-fluid {
+    max-width: 100%;
+
+}
+.btn-ass{
+    background: #7F5C0B !important;
+    color: aliceblue;
+}
+
+.bi-instagram{
+color: #833AB4;
+}
+.bi-whatsapp{
+color:#075e54;
+}
+.bi-facebook{
+color: #3b5998;
+}
+.bi-linkedin{
+color: #0e76a8;
+}
+.bi-youtube {
+
+    color: red;
+}
